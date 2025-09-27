@@ -2,11 +2,7 @@
 
 ### An autonomous AI agent that uses Google's Gemini 2.5 Pro and external tools (like web search) to research complex topics and generate comprehensive reports.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python) 
-![Streamlit](https://img.shields.io/badge/Streamlit-App-orange?logo=streamlit) 
-![LangChain](https://img.shields.io/badge/LangChain-Agents-green) 
-![Tavily AI](https://img.shields.io/badge/Tavily-AI_Search-purple) 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Pro-blue?logo=google-gemini)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-1.50.0-orange?logo=streamlit) ![LangChain](https://img.shields.io/badge/LangChain-0.3.27-green) ![Tavily AI](https://img.shields.io/badge/Tavily-0.7.12-purple) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Pro-blue?logo=google-gemini)
 
 ## 🚀 Overview
 
